@@ -1,0 +1,6 @@
+{
+  "name": "GoalMind AI - Autonomous Mobile Operator",
+  "description": "Autonomous mobile phone operator with continuous edge AI monitoring, Sandboxed App Store, human-safe collision yielding & resume, Serper & Tavily security awareness, and biometric guardrails.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
